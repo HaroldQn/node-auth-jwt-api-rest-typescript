@@ -1,0 +1,2 @@
+INSTALACION PARA DEV
+npm install ts-node-dev @types/express @types/jsonwebtoken @types/bcrypt @types/node rimraf prisma -D 
